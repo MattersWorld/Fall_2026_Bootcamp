@@ -1,0 +1,9 @@
+SYSTEM INFO
+===========
+Timestamp: 2026-09-27 01:22:23.093485
+Hostname: DESKTOP-L41I212
+Operating system: Windows
+OS version: 10.0.19045
+Machine type: AMD64
+Current user ID: not available
+Current working directory: C:\Users\Matt Black\Documents\TheoWAF\cpg\cloudFundementals\Fall_2026_Bootcamp\live-server-diagnostics
